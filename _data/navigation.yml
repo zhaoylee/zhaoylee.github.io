@@ -20,3 +20,9 @@ main:
 
 #  - title: "Internships"
 #    url: "/#-internships"
+
+#main:
+  - title: "Blogs"
+    url: https://svyj.github.io/blogs
+  - title: "Daily Papers"
+    url: https://svyj.github.io/daily-papers
